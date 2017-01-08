@@ -16,6 +16,7 @@
     },
     "dependencies": {
         "fmtjs-att-pass-id": "4.24.0",
+        "fmtjs-att-pass-flat": "4.24.0",
         "fmtjs-att-pass-lexical": "4.24.0"
     }
 }
