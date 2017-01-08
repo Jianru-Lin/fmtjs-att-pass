@@ -1,6 +1,6 @@
 {
     "name": "fmtjs-att-pass",
-    "version": "4.24.0",
+    "version": "4.25.0",
     "description": "",
     "main": "index.js",
     "scripts": {
@@ -15,8 +15,8 @@
         "mocha": "^3.1.2"
     },
     "dependencies": {
-        "fmtjs-att-pass-id": "4.24.0",
-        "fmtjs-att-pass-flat": "4.24.0",
-        "fmtjs-att-pass-lexical": "4.24.0"
+        "fmtjs-att-pass-id": "4.25.0",
+        "fmtjs-att-pass-flat": "4.25.0",
+        "fmtjs-att-pass-lexical": "4.25.0"
     }
 }
